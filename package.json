@@ -29,6 +29,6 @@
   "devDependencies": {
     "mocha": "^6.2.0",
     "nock": "^10.0.4",
-    "nodemon": "^1.19.1"
+    "nodemon": "^2.0.2"
   }
 }
