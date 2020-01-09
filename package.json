@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "mocha": "^7.0.0",
-    "nock": "^10.0.4",
+    "nock": "^11.7.2",
     "nodemon": "^2.0.2"
   }
 }
